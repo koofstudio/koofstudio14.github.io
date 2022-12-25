@@ -101,7 +101,7 @@ section {
 }
 
 .related > a {
-	border: 3px solid rgba(0,0,0,0.4);;
+	border: 3px solid rgba(255, 255, 255, 0.976);;
 	display: inline-block;
 	text-align: center;
 	margin: 20px 10px;
